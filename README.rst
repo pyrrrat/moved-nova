@@ -59,3 +59,5 @@ For information on how to contribute to Nova, please see the
 contents of the CONTRIBUTING.rst file.
 
 -- End of broadcast
+
+Sometimes, repos need local changes.
